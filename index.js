@@ -1,5 +1,5 @@
 {
-    "name": "headless-chrome",
+    "name": "headless-chrome", eeeeeeeeeeeeee
     "version": "1.0.0",
     "lockfileVersion": 1,
     "requires": true,
